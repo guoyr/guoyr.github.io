@@ -1,7 +1,7 @@
 title:            Robert Guo
 description:      Software Engineer at MongoDB
 url:              robertguo.me # Site url.
-signoff:          Robert Guo# Your name.
+signoff:          Robert Guo # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   614089925389046 # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-61167723-1 # set tracking, remove from /javascripts/basic.js if unwanted.
@@ -13,10 +13,10 @@ links:
     url:          http://robertguo.me
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:robertguo@me.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/guoyr
     external:     true
 highlighter:      pygments
 permalink:        pretty
